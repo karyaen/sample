@@ -1,0 +1,682 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Movers Packers\n"
+"POT-Creation-Date: 2016-05-20 11:04+0530\n"
+"PO-Revision-Date: 2016-05-20 11:04+0530\n"
+"Last-Translator: \n"
+"Language-Team: SKT Themes <support@sktthemes.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404エラー    見つかりません"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr ""
+"あなたは間違ったターンをとっているように見える.....それは私たちの最高のに起こ"
+"る...心配しないでください。"
+
+#: archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr "投稿者: %s"
+
+#: archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr "月: %s"
+
+#: archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr "年: %s"
+
+#: archive.php:47
+msgid "Asides"
+msgstr "より多くの挿話"
+
+#: archive.php:50
+msgid "Images"
+msgstr "画像"
+
+#: archive.php:53
+msgid "Videos"
+msgstr "ビデオ"
+
+#: archive.php:56
+msgid "Quotes"
+msgstr "引用符"
+
+#: archive.php:59
+msgid "Links"
+msgstr "バナー"
+
+#: archive.php:62 sidebar.php:18
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: archive.php:85 category.php:32 index.php:34
+msgid "Back"
+msgstr "戻る"
+
+#: archive.php:86 category.php:33 inc/template-tags.php:38 index.php:35
+msgid "Next"
+msgstr "次へ"
+
+#: category.php:19
+msgid "Category: "
+msgstr "カテゴリ："
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; 古いコメント"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:76 inc/template-tags.php:95
+msgid "Edit"
+msgstr "編集"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "|タグ："
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "続きを読む"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:15
+msgid "Address:-"
+msgstr "住所"
+
+#: footer.php:18 inc/customizer.php:296
+msgid "Mover & Packers 10 Down Street, Hunterdon, United States"
+msgstr "ムーバー＆パッカーズ10ダウンストリート、ハンター、アメリカ合衆国"
+
+#: footer.php:25
+msgid "Call Us:-"
+msgstr "お電話ください"
+
+#: footer.php:28 header.php:70
+msgid "+10 2234567890 +10 1123456789"
+msgstr "10 2234567890  10 1123456789"
+
+#: footer.php:35
+msgid "Email Us:-"
+msgstr "お電話"
+
+#: footer.php:38 inc/customizer.php:383
+msgid "support@sitename.com info@sitename.com"
+msgstr "support@sitename.com info@sitename.com"
+
+#: footer.php:48 inc/customizer.php:239
+msgid "About Us"
+msgstr "会社概要"
+
+#: footer.php:49 inc/customizer.php:250
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue. <br /> "
+"</br > Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat "
+"sapien mauris, vitae sodales tellus venenatis ac suspendisse suscipit velit. "
+msgstr ""
+"〜している間UTの元の交流NULLA pellentesqueモリスでA enim。 Praesentは"
+"placerat SAPIEN mauris、履歴書はTELLUS venenatis交流をsodales。 Suspendisse "
+"suscipitのvelitのid ultriciesのauctor。 DuisのturpisのARCU、sedの"
+"sollicitudin sedのaliquet、ポルタQUIS urna。 Quisque velitのNIBH、排出物らは"
+"ERAT、vehicula interdum augue。 <br /></br > 〜している間UTの元の交流NULLA "
+"pellentesqueモリスでA enim。 Praesent placerat SAPIEN mauris、履歴書のsodales"
+"のTELLUS venenatis交流suspendisse suscipitのvelit。"
+
+#: footer.php:53 inc/customizer.php:262
+msgid "Our Services"
+msgstr "私たちのサービス"
+
+#: footer.php:61 inc/customizer.php:273
+msgid "Latest Posts"
+msgstr "最新投稿"
+
+#: footer.php:72
+msgid "Read more"
+msgstr "続きを読む"
+
+#: footer.php:84
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:84
+msgid "All Rights Reserved"
+msgstr "(無断複写・複製・転載を禁ず)"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: functions.php:53
+msgid "Top Menu"
+msgstr "トップメニュー"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:68
+msgid "Header Info"
+msgstr "ヘッダー情報"
+
+#: functions.php:69
+msgid "Appears on header of site"
+msgstr "サイトのヘッダーに表示されます。"
+
+#: functions.php:78
+msgid "Blog Sidebar"
+msgstr "ブログサイドバー"
+
+#: functions.php:79
+msgid "Appears on blog page sidebar"
+msgstr "ブログのページのサイドバーに表示"
+
+#: functions.php:98
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "有効"
+
+#: functions.php:105
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "有効"
+
+#: header.php:58 inc/customizer.php:326
+msgid "Opening Hours"
+msgstr "営業時間"
+
+#: header.php:61
+msgid "Mon to Fri - 10.00 AM to 7.00 PM<br /> Sat - 10.00 AM to 4.00 PM"
+msgstr "金の月 -  7.00 PMに10.00 AM <br />土 -  4.00 PMに10.00 AM"
+
+#: header.php:67 inc/customizer.php:349
+msgid "Call Us"
+msgstr "お電話ください:"
+
+#: header.php:76 inc/customizer.php:372
+msgid "Email Us"
+msgstr "お電話"
+
+#: header.php:95
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:101 inc/customizer.php:395
+msgid "Get A Quote"
+msgstr "引用"
+
+#: header.php:142 header.php:277
+msgid "Read More"
+msgstr "もっと見る"
+
+#: header.php:159 header.php:166 header.php:173 header.php:294 header.php:301
+#: header.php:308
+msgid "We are moving experts"
+msgstr "私たちは、専門家を移動します"
+
+#: header.php:160 header.php:167 header.php:174 header.php:295 header.php:302
+#: header.php:309
+msgid ""
+"This is an example page. Its different from a blog post because it will stay "
+"in one place and will show up in your site navigation"
+msgstr ""
+"これは、例えばページです。それは一つの場所にとどまると、サイトナビゲーション"
+"に表示されますので、ブログ記事からの異なります"
+
+#: header.php:194 header.php:329
+msgid "Why Choose Us"
+msgstr "選ばれる理由"
+
+#: header.php:195 header.php:330
+msgid ""
+"Vivamus non elementum lacus. Nam ac molestie tortor. Ut sit amet lobortis "
+"magna, ut ornare ante. Curabitur lobortis urna non ligula porta\n"
+"sodales. Pellentesque at efficitur risus, at dignissim libero. Etiam lacinia "
+"lorem sit amet arcu vulputate varius. Suspendisse sodales quam eu\n"
+"egestas consequat. Donec vestibulum elementum libero eget fringilla. "
+msgstr ""
+"Vivamus非elementumラクス。ナム交流molestieのtortor。 UTはAMETマグナ、ユタ州"
+"ornareアンティをlobortis座ります。 Curabitur lobortis urna非小舌ポルタ"
+"sodales。 dignissimリベロでefficitur笑い、時Pellentesque。 Etiamの切れ込みの"
+"loremのはvulputateバリウスARCU AMET座ります。 Suspendisse sodales QUAM EU排出"
+"物consequat。 〜している間前庭elementumリベロegetアトリ属。"
+
+#: header.php:230 header.php:365
+msgid "Largest Warehousing"
+msgstr "最大倉庫"
+
+#: header.php:232 header.php:367
+msgid ""
+"Praesent eget malesuada massa. Curabitur pretium, est eu iaculis maximus, "
+"sem arcu rhoncus arcu, sit amet consequat justo sem eget sapien. Nulla "
+"egestas non ex ultricies semper. Aliquam vitae orci rutrum"
+msgstr ""
+"Praesent eget malesuadaマッサ。 Curabitur pretium、estのEU iaculisのmaximus、"
+"SEM ARCU rhoncus ARCU、AMET座るconsequatのフストSEM eget SAPIEN。 NULLA性排出"
+"物以外の元ultriciesゼンパー。 Aliquam履歴書のorciのrutrum"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"投稿<span class=“entry-date”><time class=“entry-date” datetime=“%1$s”>%2$s</"
+"time></span> at <a href=“%3$s” title=“Link to full-size image”>%4$s &times; "
+"%5$s</a>、<a href=“%6$s” title=“Return to %7$s” rel=“gallery”>%8$s</a>に"
+"<span class=“meta-prep meta-prep-entry-date”>投稿された</span>。"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=“meta-nav”>&larr;</span> 前へ"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "次へ<span class=“meta-nav”>&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "テーマについて"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "テーマ情報について"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like portfolio, personal, architect, "
+"consulting, construction, real estate etc. Compatible with contact form 7, "
+"WooCommerce, NextGen Gallery and is translation ready."
+msgstr ""
+"SKT発動機とパッカーズは多目的であり、企業、ビジネス、販売、ランディングペー"
+"ジ、製品の発売等、ポートフォリオ、個人的な、建築家、コンサルタント、建設、不"
+"動産との互換性など、さまざまな他のウェブサイトの使用のために使用することがで"
+"きます応答ワードプレスのテーマですコンタクトフォーム7、WooCommerce、NextGenの"
+"ギャラリーと翻訳の準備ができています。"
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "ライブデモ"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "プロ購入"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "説明書"
+
+#: inc/customizer.php:27
+msgid "Color Scheme"
+msgstr "配色パターン"
+
+#: inc/customizer.php:28 inc/customizer.php:42
+msgid "More color options in PRO Version."
+msgstr "PROバージョンのより多くの色のオプション。"
+
+#: inc/customizer.php:41
+msgid "Other Color Option"
+msgstr "その他のカラーオプション"
+
+#: inc/customizer.php:52
+msgid "Slider Settings"
+msgstr "スライダーの設定"
+
+#: inc/customizer.php:54
+msgid ""
+"Featured Image Size Should be ( 1209x494 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"注目の画像サイズは、PROバージョンで利用可能（1209x494）その他のスライダーの設"
+"定である必要があります。"
+
+#: inc/customizer.php:67
+msgid "Select page for slide one:"
+msgstr "スライド1ページを選択します。"
+
+#: inc/customizer.php:79
+msgid "Select page for slide two:"
+msgstr "スライド2のページを選択します。"
+
+#: inc/customizer.php:91
+msgid "Select page for slide three:"
+msgstr "スライド3のページを選択します。"
+
+#: inc/customizer.php:108
+msgid "Homepage  Why Choose Us"
+msgstr "ホームページ会社を選択する理由"
+
+#: inc/customizer.php:109
+msgid "Select Page from the dropdown for first section"
+msgstr "最初のセクションのドロップダウンからページを選択します"
+
+#: inc/customizer.php:136
+msgid "Homepage  Three Box Services"
+msgstr "ホームページスリーボックスサービス"
+
+#: inc/customizer.php:137
+msgid "Select Pages from the dropdown for homepage three column box section"
+msgstr ""
+"ホームページ3列のボックスセクションのドロップダウンからページを選択します"
+
+#: inc/customizer.php:188
+msgid "Social Settings"
+msgstr "ソーシャル設定"
+
+#: inc/customizer.php:189
+msgid "More social icon available in PRO Version."
+msgstr "PROバージョンで利用可能なより多くの社会的なアイコン。"
+
+#: inc/customizer.php:199
+msgid "Add facebook link here"
+msgstr "ここではFacebookのリンクを追加"
+
+#: inc/customizer.php:209
+msgid "Add twitter link here"
+msgstr "ここではTwitterのリンク​​を追加"
+
+#: inc/customizer.php:218
+msgid "Add google plus link here"
+msgstr "ここでグーグルプラスリンクを追加"
+
+#: inc/customizer.php:227
+msgid "Add linkedin link here"
+msgstr "ここではLinkedInのリンクを追加"
+
+#: inc/customizer.php:233
+msgid "Footer Area"
+msgstr "フッターエリア"
+
+#: inc/customizer.php:235
+msgid "Add footer copyright text"
+msgstr "フッター著作権テキスト"
+
+#: inc/customizer.php:244
+msgid "Add title for our philosophy"
+msgstr "私たちの理念のためにタイトルを追加します。"
+
+#: inc/customizer.php:255
+msgid "Add description for about us"
+msgstr "私達についての説明を追加"
+
+#: inc/customizer.php:267
+msgid "Add title for our services"
+msgstr "当社のサービスのためにタイトルを追加します。"
+
+#: inc/customizer.php:278
+msgid "Add title for office hours"
+msgstr "営業時間のためにタイトルを追加します。"
+
+#: inc/customizer.php:285
+msgid "Address"
+msgstr "住所"
+
+#: inc/customizer.php:289
+msgid "Add title for contact address"
+msgstr "連絡先のタイトルを追加します。"
+
+#: inc/customizer.php:301
+msgid "Add contact address here"
+msgstr "ここで連絡先を追加します。"
+
+#: inc/customizer.php:308
+msgid "Copyright @ 2016 SKT Movers Packers. All Rights Reserved"
+msgstr "2016 SKT発動機パッカーズ@著作権。全著作権所有"
+
+#: inc/customizer.php:313
+msgid "Add copyright text for footer"
+msgstr "フッターの著作権テキストを追加します。"
+
+#: inc/customizer.php:320
+msgid "Header And Footer Info"
+msgstr "ヘッダーおよびフッター"
+
+#: inc/customizer.php:331
+msgid "Add title for opening hour"
+msgstr "時間を開くためにタイトルを追加します。"
+
+#: inc/customizer.php:337
+msgid "Mon to Fri - 10.00 AM to 7.00 PM Sat - 10.00 AM to 4.00 PM"
+msgstr "金の月 -  4.00 PMに10.00 AM  -  7.00 PM土曜に10.00 AM"
+
+#: inc/customizer.php:342
+msgid "Add opning hours for header"
+msgstr "ヘッダーのopning時間を追加します。"
+
+#: inc/customizer.php:354
+msgid "Add title for call us"
+msgstr "お電話のタイトルを追加します。"
+
+#: inc/customizer.php:361
+msgid " +10 2234567890 +10 1123456789"
+msgstr "10 2234567890  10 1123456789"
+
+#: inc/customizer.php:366
+msgid "Add contact phone number for header"
+msgstr "ヘッダの連絡先電話番号を追加"
+
+#: inc/customizer.php:377
+msgid "Add title for email us"
+msgstr "Eメールでのお問い合わせのためにタイトルを追加します。"
+
+#: inc/customizer.php:388
+msgid "Add email address for header"
+msgstr "ヘッダーのための電子メールアドレスを追加します。"
+
+#: inc/customizer.php:400
+msgid "Add title for get a quote"
+msgstr "見積もりを取得するためにタイトルを追加します。"
+
+#: inc/customizer.php:406
+msgid "#"
+msgstr "#"
+
+#: inc/customizer.php:411
+msgid "Add link for get a quote"
+msgstr "見積もりを取得するためのリンクを追加します。"
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr "投稿のナビゲーション"
+
+#: inc/template-tags.php:39
+msgid "Next Post:"
+msgstr "次の投稿へ"
+
+#: inc/template-tags.php:41
+msgid "Previous"
+msgstr "前へ"
+
+#: inc/template-tags.php:42
+msgid "Previous Post:"
+msgstr "前の投稿へ"
+
+#: inc/template-tags.php:49
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=“meta-nav”>&larr;</span> 古い投稿"
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=“meta-nav”>&rarr;</span>"
+
+#: inc/template-tags.php:76
+msgid "Pingback:"
+msgstr "ピンバック："
+
+#: inc/template-tags.php:92
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:99
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは管理者の承認待ちです。"
+
+#: inc/template-tags.php:190
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"byline\">%2$sの</span> <span class=\"posted-on\">%1$sを公開</"
+"span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"最初の投稿の準備はできましたか? <a href=“%1$s”>ここ</a>からはじめましょう。"
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"検索キーワードに一致するコンテンツが見つかりませんでした。他のキーワードをお"
+"試しください。"
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "お探しのコンテンツが見つかりません。検索をお試しください。"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "検索…"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "カテゴリ"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "メタ"
+
+#. Theme Name of the plugin/theme
+msgid "Movers Packers"
+msgstr "発動機パッカーズ"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/movers-packers-lite/"
+msgstr "http://www.sktthemes.net/shop/movers-packers-lite/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like local business, small business, "
+"startup, portfolio, personal, architect, consulting, construction, real "
+"estate, medical, health, doctor, fitness, clean, flat, simple, flexible, "
+"scalable, freelancer, fashion, lifestyle, travel, sports, food, recipe, "
+"musician, agency, creative, bloggers, restaurant, cafe etc. Compatible with "
+"contact form 7, WooCommerce, NextGen Gallery and is translation ready. "
+"Translated into 23 ready languages and is compatible with WPML, qTranslate "
+"X, polylang etc. Check demo at: http://sktthemesdemo.net/moverspackers/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"
+
+#~ msgid "Appears on header and footer of site"
+#~ msgstr "サイトのヘッダとフッタに表示されます"
+
+#~ msgid ""
+#~ "SKT Movers and Packers is a responsive WordPress theme which is "
+#~ "multipurpose and can be used for corporate, business, sales, landing "
+#~ "page, product launch and various other website usage like local business, "
+#~ "small business, startup, portfolio, personal, architect, consulting, "
+#~ "construction, real estate etc. Compatible with contact form 7, "
+#~ "WooCommerce, NextGen Gallery and is translation ready. Check demo at: "
+#~ "http://sktthemesdemo.net/moverspackers/"
+#~ msgstr ""
+#~ "SKT発動機とパッカーズは、多目的であり、企業、ビジネス、販売、ランディング"
+#~ "ページ、製品の発売とローカルビジネス、スモールビジネス、スタートアップ、"
+#~ "ポートフォリオ、個人的な、建築家、コンサルタントのような様々な他のウェブサ"
+#~ "イトの使用のために使用することができます応答ワードプレスのテーマです建設、"
+#~ "お問い合わせフォーム7、WooCommerce、NextGenのギャラリーに対応し、翻訳準備"
+#~ "ができている不動産等。 http://sktthemesdemo.net/moverspackers/：でデモを"
+#~ "チェック"

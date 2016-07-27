@@ -1,0 +1,668 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Movers Packers\n"
+"POT-Creation-Date: 2016-07-05 09:29+0530\n"
+"PO-Revision-Date: 2016-07-05 09:30+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 Δε Βρέθηκε"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr ""
+"Μοιάζει έχετε πάρει μια λάθος στροφή... Μην ανησυχείτε... συμβαίνει στο "
+"καλύτερο από εμάς."
+
+#: archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr "Συντάκτης: %s"
+
+#: archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr "Ημέρα: %s"
+
+#: archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr "Μήνας: %s"
+
+#: archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr "Έτος: %s"
+
+#: archive.php:47
+msgid "Asides"
+msgstr "Παραλειπόμενα"
+
+#: archive.php:50
+msgid "Images"
+msgstr "Εικόνες"
+
+#: archive.php:53
+msgid "Videos"
+msgstr "Βίντεο"
+
+#: archive.php:56
+msgid "Quotes"
+msgstr "Παραθέσεις"
+
+#: archive.php:59
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+#: archive.php:62 sidebar.php:18
+msgid "Archives"
+msgstr "Αρει"
+
+#: archive.php:85 category.php:32 index.php:34
+msgid "Back"
+msgstr "ΠΙΣΩ"
+
+#: archive.php:86 category.php:33 inc/template-tags.php:38 index.php:35
+msgid "Next"
+msgstr "Επόμενο"
+
+#: category.php:19
+msgid "Category: "
+msgstr "Κατηγορία:"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Μια σκέψη για \"%2$s\""
+msgstr[1] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Πλοήγηση σε σχόλια"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Παλαιότερα Σχόλια"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα Σχόλια &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Τα σχόλια έχουν κλείσει."
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:76 inc/template-tags.php:95
+msgid "Edit"
+msgstr "Τροποποίηση"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "| Ετικέτες:"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "Διαβάστε περισσότερα &raquo;"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια ανάγνωσης <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:15
+msgid "Address:-"
+msgstr "Διεύθυνση"
+
+#: footer.php:18 inc/customizer.php:296
+msgid "Mover & Packers 10 Down Street, Hunterdon, United States"
+msgstr "Μετακινούμενος & Packers 10 κάτω δρόμο, Hunterdon, Ηνωμένες Πολιτείες"
+
+#: footer.php:25
+msgid "Call Us:-"
+msgstr "Καλέστε μας:-"
+
+#: footer.php:28 header.php:70
+msgid "+10 2234567890 +10 1123456789"
+msgstr "2234567890 + 10 + 10 1123456789"
+
+#: footer.php:35
+msgid "Email Us:-"
+msgstr "Επικοινωνήστε μαζί μας:-"
+
+#: footer.php:38 inc/customizer.php:383
+msgid "support@sitename.com info@sitename.com"
+msgstr "Support@SITENAME.com info@sitename.com"
+
+#: footer.php:48 inc/customizer.php:239
+msgid "About Us"
+msgstr "Ποιοι είμαστε"
+
+#: footer.php:49 inc/customizer.php:250
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue. <br /> "
+"</br > Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat "
+"sapien mauris, vitae sodales tellus venenatis ac suspendisse suscipit velit. "
+msgstr ""
+"Είναι ένα πρότυπο ut ex mollis pellentesque nulla ac σε ένα enim. Καλύτερο "
+"κηρύγματα placerat Σάπιεν mauris, σημείωμα sodales tellus venenatis ac. "
+"Suspendisse suscipit δεν θα αναγνωριστικό ultricies συγγραφέας. DUIs turpis "
+"arcu, Ρεάλ Ανεβάστε sed sollicitudin sed, porta αυτό μεγάλο. Quisque δεν θα "
+"nibh, egestas et erat α, augue interdum vehicula.<br>Είναι ένα πρότυπο ut ex "
+"mollis pellentesque nulla ac σε ένα enim. Καλύτερο κηρύγματα placerat Σάπιεν "
+"mauris, σημείωμα sodales tellus venenatis ac suspendisse suscipit δεν θα."
+
+#: footer.php:53 inc/customizer.php:262
+msgid "Our Services"
+msgstr "Οι Υπηρεσίες μας"
+
+#: footer.php:61 inc/customizer.php:273
+msgid "Latest Posts"
+msgstr "Πρόσφατες Δημοσιεύσεις"
+
+#: footer.php:72
+msgid "Read more"
+msgstr "Περισσότερα"
+
+#: footer.php:84
+msgid "&copy; 2016"
+msgstr "© 2016"
+
+#: footer.php:84
+msgid "All Rights Reserved"
+msgstr "Με την επιφύλαξη παντός δικαιώματος."
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "Πρωτογενές μενού"
+
+#: functions.php:53
+msgid "Top Menu"
+msgstr "Άνω μενού"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "Μενού χαμηλό"
+
+#: functions.php:68
+msgid "Header Info"
+msgstr "Πληροφορίες κεφαλίδα"
+
+#: functions.php:69
+msgid "Appears on header of site"
+msgstr "Εμφανίζεται στην κεφαλίδα του site"
+
+#: functions.php:78
+msgid "Blog Sidebar"
+msgstr "Πλευρική στήλη Ιστολογίου"
+
+#: functions.php:79
+msgid "Appears on blog page sidebar"
+msgstr "Εμφανίζεται στην πλαϊνή μπάρα του blog σελίδα"
+
+#: functions.php:98
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: functions.php:105
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "ενεργό"
+
+#: header.php:58 inc/customizer.php:326
+msgid "Opening Hours"
+msgstr "Nyitvatartási idő"
+
+#: header.php:61
+msgid "Mon to Fri - 10.00 AM to 7.00 PM<br /> Sat - 10.00 AM to 4.00 PM"
+msgstr "Δευτ-Παρ - 10.00 πμ σε 7: 00 μμ<br>Σάβ - 10ΠΜ να 4μ.Μ."
+
+#: header.php:67 inc/customizer.php:349
+msgid "Call Us"
+msgstr "Καλέστε μας"
+
+#: header.php:76 inc/customizer.php:372
+msgid "Email Us"
+msgstr "Στείλτε μας email στο:"
+
+#: header.php:95
+msgid "Menu"
+msgstr "Μενού"
+
+#: header.php:101 inc/customizer.php:395
+msgid "Get A Quote"
+msgstr "Πάρτε μία προσφορά"
+
+#: header.php:142 header.php:277
+msgid "Read More"
+msgstr "Περισσότερα"
+
+#: header.php:159 header.php:166 header.php:173 header.php:294 header.php:301
+#: header.php:308
+msgid "We are moving experts"
+msgstr "Κινούμαστε εμπειρογνώμονες"
+
+#: header.php:160 header.php:167 header.php:174 header.php:295 header.php:302
+#: header.php:309
+msgid ""
+"This is an example page. Its different from a blog post because it will stay "
+"in one place and will show up in your site navigation"
+msgstr ""
+"Αυτό είναι ένα παράδειγμα σελίδας. Των διαφόρων του από ένα blog post διότι "
+"αυτό θα μείνετε σε ένα μέρος και θα εμφανιστούν στην πλοήγηση στην "
+"ιστοσελίδα σας"
+
+#: header.php:194 header.php:329
+msgid "Why Choose Us"
+msgstr "Γιατί να μας επιλέξετε;"
+
+#: header.php:195 header.php:330
+msgid ""
+"Vivamus non elementum lacus. Nam ac molestie tortor. Ut sit amet lobortis "
+"magna, ut ornare ante. Curabitur lobortis urna non ligula porta\n"
+"sodales. Pellentesque at efficitur risus, at dignissim libero. Etiam lacinia "
+"lorem sit amet arcu vulputate varius. Suspendisse sodales quam eu\n"
+"egestas consequat. Donec vestibulum elementum libero eget fringilla. "
+msgstr ""
+"Αυτό το mod είναι μη elementum lacus. Nam ac molestie tortor. UT sit amet "
+"lobortis magna, ut ornare των προτέρων. Curabitur lobortis μη ligula μεγάλο "
+"porta sodales. Pellentesque στο efficitur risus, στο dignissim libero. Etiam "
+"lacinia lorem sit amet ΔΙΑΦΟΡΩΝ vulputate arcu. Suspendisse sodales ΕΕ quam "
+"egestas consequat. Είναι ένα πρότυπο παρουσίαση elementum libero ιδιωτικό "
+"fringilla."
+
+#: header.php:230 header.php:365
+msgid "Largest Warehousing"
+msgstr "Μεγαλύτερη αποθήκευση και διανομή εμπορευμάτων"
+
+#: header.php:232 header.php:367
+msgid ""
+"Praesent eget malesuada massa. Curabitur pretium, est eu iaculis maximus, "
+"sem arcu rhoncus arcu, sit amet consequat justo sem eget sapien. Nulla "
+"egestas non ex ultricies semper. Aliquam vitae orci rutrum"
+msgstr ""
+"Καλύτερο κηρύγματα ιδιωτικό malesuada massa. Curabitur pretium, Μάξιμος "
+"iaculis ΕΕ est, sem arcu rhoncus arcu, sit amet consequat justo sem ιδιωτικό "
+"Σάπιεν. Μη ex ultricies semper egestas nulla. Διδασκαλία σημείωμα orci rutrum"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Δημοσιεύθηκε στις <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> στο <a href=\"%3$s\">%4$s &times; %5$s</"
+"a> στο <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Προηγούμενο"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Επόμενο <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "Σχετικά με το θέμα"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "Σχετικά με το θέμα πληροφορίες"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like portfolio, personal, architect, "
+"consulting, construction, real estate etc. Compatible with contact form 7, "
+"WooCommerce, NextGen Gallery and is translation ready."
+msgstr ""
+"SKT υποκινητές και συσκευαστές είναι μια ευέλικτη WordPress θέμα που είναι "
+"πολλαπλών χρήσεων και μπορεί να χρησιμοποιηθεί για εταιρικοί, "
+"επιχειρησιακοί, πωλήσεις, προσγείωση σελίδα, προϊόν εκτόξευσης και διάφορα "
+"άλλα χρήση της τοποθεσίας Web, όπως χαρτοφυλακίου, προσωπικά, αρχιτέκτονα, "
+"συμβουλευτική, κατασκευή, ακίνητη περιουσία κ.λπ. Συμβατό σύστημα με 7, "
+"WooCommerce, στοά NextGen φόρμα επικοινωνίας και να είναι έτοιμη μετάφραση."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "ζωντανή Επίδειξη"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "Αγορά Pro"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: inc/customizer.php:27
+msgid "Color Scheme"
+msgstr "Χρωματικό θέμα"
+
+#: inc/customizer.php:28 inc/customizer.php:42
+msgid "More color options in PRO Version."
+msgstr "Περισσότερες επιλογές χρωμάτων στην έκδοση PRO."
+
+#: inc/customizer.php:41
+msgid "Other Color Option"
+msgstr "Άλλη επιλογή χρώματος"
+
+#: inc/customizer.php:52
+msgid "Slider Settings"
+msgstr "Ρυθμιστικό ρυθμίσεων"
+
+#: inc/customizer.php:54
+msgid ""
+"Featured Image Size Should be ( 1209x494 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"Προτεινόμενα εικόνα μέγεθος θα πρέπει να είναι (1209 x 494) περισσότερα "
+"ρυθμιστικό ρυθμίσεις που είναι διαθέσιμες στην έκδοση PRO."
+
+#: inc/customizer.php:67
+msgid "Select page for slide one:"
+msgstr "Επιλέξτε σελίδα για διαφάνεια ένα:"
+
+#: inc/customizer.php:79
+msgid "Select page for slide two:"
+msgstr "Επιλέξτε σελίδα για διαφάνεια δύο:"
+
+#: inc/customizer.php:91
+msgid "Select page for slide three:"
+msgstr "Επιλεγμένη σελίδα για διαφάνεια τρεις:"
+
+#: inc/customizer.php:108
+msgid "Homepage  Why Choose Us"
+msgstr "Αρχική σελίδα γιατί να επιλέξετε εμάς"
+
+#: inc/customizer.php:109
+msgid "Select Page from the dropdown for first section"
+msgstr "Επιλέξτε τη σελίδα από το αναπτυσσόμενο μενού για την πρώτη ενότητα"
+
+#: inc/customizer.php:136
+msgid "Homepage  Three Box Services"
+msgstr "Αρχική σελίδα υπηρεσίες τρεις πλαίσιο"
+
+#: inc/customizer.php:137
+msgid "Select Pages from the dropdown for homepage three column box section"
+msgstr ""
+"Επιλέξτε σελίδων από το αναπτυσσόμενο μενού για την αρχική σελίδα τρία στήλη "
+"ενότητα πλαίσιο"
+
+#: inc/customizer.php:188
+msgid "Social Settings"
+msgstr "Social ρυθμίσεις"
+
+#: inc/customizer.php:189
+msgid "More social icon available in PRO Version."
+msgstr "Πιο κοινωνική εικονίδιο διατίθεται στην έκδοση PRO."
+
+#: inc/customizer.php:199
+msgid "Add facebook link here"
+msgstr "Προσθήκη σύνδεσης στο facebook, εδώ"
+
+#: inc/customizer.php:209
+msgid "Add twitter link here"
+msgstr "Προσθέσετε κελάδημα σύνδεσμο εδώ"
+
+#: inc/customizer.php:218
+msgid "Add google plus link here"
+msgstr "Προσθέστε το google plus link εδώ"
+
+#: inc/customizer.php:227
+msgid "Add linkedin link here"
+msgstr "Προσθέστε σύνδεσμο linkedin εδώ"
+
+#: inc/customizer.php:233
+msgid "Footer Area"
+msgstr "Περιοχή υποσημείωσης"
+
+#: inc/customizer.php:235
+msgid "Add footer copyright text"
+msgstr "Προσθέστε κείμενο υποσέλιδου πνευματικών δικαιωμάτων"
+
+#: inc/customizer.php:244
+msgid "Add title for our philosophy"
+msgstr "Προσθέστε τίτλο για τη φιλοσοφία μας"
+
+#: inc/customizer.php:255
+msgid "Add description for about us"
+msgstr "Προσθέστε περιγραφή για σχετικά με εμάς"
+
+#: inc/customizer.php:267
+msgid "Add title for our services"
+msgstr "Προσθέστε τίτλο για τις υπηρεσίες μας"
+
+#: inc/customizer.php:278
+msgid "Add title for office hours"
+msgstr "Προσθέστε τίτλο για ώρες γραφείου"
+
+#: inc/customizer.php:285
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: inc/customizer.php:289
+msgid "Add title for contact address"
+msgstr "Προσθέστε τίτλο για διεύθυνση επικοινωνίας"
+
+#: inc/customizer.php:301
+msgid "Add contact address here"
+msgstr "Προσθέστε εδώ τη διεύθυνση επικοινωνίας"
+
+#: inc/customizer.php:308
+msgid "Copyright @ 2016 SKT Movers Packers. All Rights Reserved"
+msgstr ""
+"Copyright @ 2016 SKT μετακινούμενοι Packers. Όλα τα δικαιώματα κατοχυρωμένα"
+
+#: inc/customizer.php:313
+msgid "Add copyright text for footer"
+msgstr "Προσθήκη κειμένου πνευματικών δικαιωμάτων για το υποσέλιδο"
+
+#: inc/customizer.php:320
+msgid "Header And Footer Info"
+msgstr "Κεφαλίδα και υποσέλιδο πληροφορίες"
+
+#: inc/customizer.php:331
+msgid "Add title for opening hour"
+msgstr "Προσθέστε τίτλο για καθαρτικόσ ΏΡΕΣ"
+
+#: inc/customizer.php:337
+msgid "Mon to Fri - 10.00 AM to 7.00 PM Sat - 10.00 AM to 4.00 PM"
+msgstr "Δευτ-Παρ - Σαβ 10.00 πμ σε 7: 00 μμ - 10.00 π.μ. έως 4.00 μ.μ."
+
+#: inc/customizer.php:342
+msgid "Add opning hours for header"
+msgstr "Προσθέστε ώρες λειτουργίας opning για κεφαλίδα"
+
+#: inc/customizer.php:354
+msgid "Add title for call us"
+msgstr "Προσθέστε τίτλο για την πρόσκληση μας"
+
+#: inc/customizer.php:361
+msgid " +10 2234567890 +10 1123456789"
+msgstr "2234567890 + 10 + 10 1123456789"
+
+#: inc/customizer.php:366
+msgid "Add contact phone number for header"
+msgstr "Να προσθέσετε αριθμό τηλεφώνου επικοινωνίας για κεφαλίδα"
+
+#: inc/customizer.php:377
+msgid "Add title for email us"
+msgstr "Προσθέστε τίτλο για το ηλεκτρονικό ταχυδρομείο μας"
+
+#: inc/customizer.php:388
+msgid "Add email address for header"
+msgstr "Προσθέστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου για κεφαλίδα"
+
+#: inc/customizer.php:400
+msgid "Add title for get a quote"
+msgstr "Προσθέστε τίτλο για να πάρετε μια προσφορά"
+
+#: inc/customizer.php:406
+msgid "#"
+msgstr "#"
+
+#: inc/customizer.php:411
+msgid "Add link for get a quote"
+msgstr "Προσθέστε το σύνδεσμο για να πάρετε μια προσφορά"
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr "Πλοήγηση"
+
+#: inc/template-tags.php:39
+msgid "Next Post:"
+msgstr "Επόμενο άρθρο:"
+
+#: inc/template-tags.php:41
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: inc/template-tags.php:42
+msgid "Previous Post:"
+msgstr "Προηγούμενο άρθρο:"
+
+#: inc/template-tags.php:49
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Παλαιότερες αναρτήσεις"
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Νεότερα άρθρα <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:76
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:92
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:99
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιο σας αναμένει έγκριση από τον διαχειριστή."
+
+#: inc/template-tags.php:190
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Δημοσιεύθηκε %1$s</span> <span class=\"byline"
+"\">από %2$s.</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Δεν βρεθηκε κατι"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Έτοιμοι για τη δημοσίευση του πρώτου σας άρθρου; <a href=“%1$s”>Ξεκινήστε "
+"εδώ</a> ."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Δεν βρέθηκαν αποτελέσματα. Δοκιμάστε διαφορετική αναζήτηση."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Φαίνεται ότι δεν μπορούμε να βρούμε αυτό που ψάχνετε. Ίσως η αναζήτηση "
+"μπορεί να βοηθήσει."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για: %s"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Αναζήτηση…"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Μεταδεδομένα"
+
+#. Theme Name of the plugin/theme
+msgid "Movers Packers"
+msgstr "Movers Packers"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/movers-packers-lite/"
+msgstr "http://www.sktthemes.NET/Shop/Movers-Packers-Lite/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like local business, small business, "
+"startup, portfolio, personal, architect, consulting, construction, real "
+"estate, medical, health, doctor, fitness, clean, flat, simple, flexible, "
+"scalable, freelancer, fashion, lifestyle, travel, sports, food, recipe, "
+"musician, agency, creative, bloggers, restaurant, cafe etc. Compatible with "
+"contact form 7, WooCommerce, NextGen Gallery and is translation ready. "
+"Translated into 23 ready languages and is compatible with WPML, qTranslate "
+"X, polylang etc. Check demo at: http://sktthemesdemo.net/moverspackers/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.NET"

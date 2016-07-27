@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Movers Packers\n"
+"POT-Creation-Date: 2016-05-20 11:03+0530\n"
+"PO-Revision-Date: 2016-05-20 11:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 - صفحه مورد نظر یافت نشد"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr ""
+"به نظر می رسد اشتباهی صورت گرفته است ....<br />نگران نباشید ... آن را به "
+"بهترین حالت از ما اتفاق می افتد."
+
+#: archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr "نویسنده : %s"
+
+#: archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr "روز : %s"
+
+#: archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr "ماه : %s"
+
+#: archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr "سال : %s"
+
+#: archive.php:47
+msgid "Asides"
+msgstr "کلمات قصار"
+
+#: archive.php:50
+msgid "Images"
+msgstr "عکس"
+
+#: archive.php:53
+msgid "Videos"
+msgstr "ویدئو"
+
+#: archive.php:56
+msgid "Quotes"
+msgstr "نقل قول ها"
+
+#: archive.php:59
+msgid "Links"
+msgstr "لینک ها"
+
+#: archive.php:62 sidebar.php:18
+msgid "Archives"
+msgstr "آرشیو ها"
+
+#: archive.php:85 category.php:32 index.php:34
+msgid "Back"
+msgstr "بازگشت"
+
+#: archive.php:86 category.php:33 inc/template-tags.php:38 index.php:35
+msgid "Next"
+msgstr "بعدی"
+
+#: category.php:19
+msgid "Category: "
+msgstr "دسته بندی:"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "دیدگاه در &ldquo;%2$s&rdquo;"
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "نظرات"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "دیدگاه های قدیمی  &larr;"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه های جدیدتر &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "نظرات بسته شده است."
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:76 inc/template-tags.php:95
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "| برچسب ها:"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "ادامه مطلب &raquo;"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ادامه مطلب <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:15
+msgid "Address:-"
+msgstr "آدرس"
+
+#: footer.php:18 inc/customizer.php:296
+msgid "Mover & Packers 10 Down Street, Hunterdon, United States"
+msgstr "تکان دهنده & هکرها 10 پایین خیابان، Hunterdon، ایالات متحده آمریکا"
+
+#: footer.php:25
+msgid "Call Us:-"
+msgstr "تماس باما"
+
+#: footer.php:28 header.php:70
+msgid "+10 2234567890 +10 1123456789"
+msgstr "2234567890 + 10 1123456789 + 10"
+
+#: footer.php:35
+msgid "Email Us:-"
+msgstr "به ما ایمیل بزنید"
+
+#: footer.php:38 inc/customizer.php:383
+msgid "support@sitename.com info@sitename.com"
+msgstr "support@sitename.com info@sitename.com"
+
+#: footer.php:48 inc/customizer.php:239
+msgid "About Us"
+msgstr "درباره ما"
+
+#: footer.php:49 inc/customizer.php:250
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue. <br /> "
+"</br > Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat "
+"sapien mauris, vitae sodales tellus venenatis ac suspendisse suscipit velit. "
+msgstr ""
+"دانشگاه Donec سابق آث nulla mollis pellentesque در enim. Praesent placerat "
+"sapien mauris, رزومه sodales tellus venenatis ac. Suspendisse suscipit velit "
+"شناسه ultricies auctor. Duis arcu turpis aliquet sed sollicitudin sed porta "
+"quis urna. Quisque velit nibh، egestas و همکاران erat augue interdum "
+"vehicula،.<br>دانشگاه Donec سابق آث nulla mollis pellentesque در enim. "
+"Praesent placerat sapien mauris، زندگي tellus sodales venenatis ac "
+"suspendisse velit suscipit."
+
+#: footer.php:53 inc/customizer.php:262
+msgid "Our Services"
+msgstr "خدمات ما"
+
+#: footer.php:61 inc/customizer.php:273
+msgid "Latest Posts"
+msgstr "آخرین نوشته ها"
+
+#: footer.php:72
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: footer.php:84
+msgid "&copy; 2016"
+msgstr "© یدلایمخیرات 2016"
+
+#: footer.php:84
+msgid "All Rights Reserved"
+msgstr "تمامی حقوق محفوظ میباشد"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "فهرست اصلی"
+
+#: functions.php:53
+msgid "Top Menu"
+msgstr "منوی بالا"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "منو فوتر"
+
+#: functions.php:68
+msgid "Header Info"
+msgstr "اطلاعات سربرگ"
+
+#: functions.php:69
+msgid "Appears on header of site"
+msgstr "به نظر می رسد در سر صفحه و پا نویس سایت"
+
+#: functions.php:78
+msgid "Blog Sidebar"
+msgstr "ستون کنار بلاگ"
+
+#: functions.php:79
+msgid "Appears on blog page sidebar"
+msgstr "ظاهر می شود  بر روی صفحه وبلاگ نوار کناری"
+
+#: functions.php:98
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "در"
+
+#: functions.php:105
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "در"
+
+#: header.php:58 inc/customizer.php:326
+msgid "Opening Hours"
+msgstr "ساعات کار"
+
+#: header.php:61
+msgid "Mon to Fri - 10.00 AM to 7.00 PM<br /> Sat - 10.00 AM to 4.00 PM"
+msgstr "دوشنبه تا جمعه - ۱۰ صبح تا 7 عصر<br>شنبه - ۱۰ صبح تا 4 عصر"
+
+#: header.php:67 inc/customizer.php:349
+msgid "Call Us"
+msgstr "تماس با ما"
+
+#: header.php:76 inc/customizer.php:372
+msgid "Email Us"
+msgstr "به ما ایمیل بزنید"
+
+#: header.php:95
+msgid "Menu"
+msgstr "منو"
+
+#: header.php:101 inc/customizer.php:395
+msgid "Get A Quote"
+msgstr "خبرنامه"
+
+#: header.php:142 header.php:277
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+#: header.php:159 header.php:166 header.php:173 header.php:294 header.php:301
+#: header.php:308
+msgid "We are moving experts"
+msgstr "ما در حال حرکت کارشناسان"
+
+#: header.php:160 header.php:167 header.php:174 header.php:295 header.php:302
+#: header.php:309
+msgid ""
+"This is an example page. Its different from a blog post because it will stay "
+"in one place and will show up in your site navigation"
+msgstr ""
+"این صفحه مثال است. مختلف آن را از وبلاگ پست چون در یک مکان باقی بماند و نشان "
+"خواهد داد تا در ناوبری سایت شما"
+
+#: header.php:194 header.php:329
+msgid "Why Choose Us"
+msgstr "تم استور - چرا ما را انتخاب کنید"
+
+#: header.php:195 header.php:330
+msgid ""
+"Vivamus non elementum lacus. Nam ac molestie tortor. Ut sit amet lobortis "
+"magna, ut ornare ante. Curabitur lobortis urna non ligula porta\n"
+"sodales. Pellentesque at efficitur risus, at dignissim libero. Etiam lacinia "
+"lorem sit amet arcu vulputate varius. Suspendisse sodales quam eu\n"
+"egestas consequat. Donec vestibulum elementum libero eget fringilla. "
+msgstr ""
+"Lacus غیر elementum Vivamus. نم tortor molestie ac. دانشگاه تهران تحصن آمت، "
+"مگنا lobortis حول ornare دانشگاه تهران. Curabitur lobortis urna غیر ligula "
+"porta sodales. Pellentesque در efficitur risus در dignissim libero. Etiam "
+"lacinia lorem نشستن آمت، کریستالی vulputate arcu. Suspendisse sodales quam "
+"اروپا egestas consequat. Donec vestibulum elementum libero eget fringilla."
+
+#: header.php:230 header.php:365
+msgid "Largest Warehousing"
+msgstr "بزرگترین سایت"
+
+#: header.php:232 header.php:367
+msgid ""
+"Praesent eget malesuada massa. Curabitur pretium, est eu iaculis maximus, "
+"sem arcu rhoncus arcu, sit amet consequat justo sem eget sapien. Nulla "
+"egestas non ex ultricies semper. Aliquam vitae orci rutrum"
+msgstr ""
+"Praesent eget malesuada massa. Curabitur pretium بزرگ iaculis اتحادیه اروپا "
+"است، عشق و دوستی arcu rhoncus arcu نشستن آمت، justo consequat sem sapien "
+"eget. Nulla egestas سابق ultricies سمپر غیر. Aliquam کاری orci rutrum"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"منتشر شده <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> در <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> قبلی"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "بعدی <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "درباره تم"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "درباره تم اطلاعات"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like portfolio, personal, architect, "
+"consulting, construction, real estate etc. Compatible with contact form 7, "
+"WooCommerce, NextGen Gallery and is translation ready."
+msgstr ""
+"حرکتدهنده SKT و هکرها است تم وردپرس پاسخگو است که چند منظوره است و می تواند "
+"مورد استفاده قرار گیرد برای شرکت، کسب و کار، فروش، فرود صفحه راه اندازی "
+"محصول و مختلف دیگر استفاده از وب سایت مانند نمونه کارها، شخصی، معمار، "
+"مشاوره، ساخت و ساز، املاک و مستغلات و غیره. سازگار با تماس با فرم-7, "
+"WooCommerce, NextGen گالری و ترجمه آماده است."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "نسخه ی نمایشی زنده"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "خرید نسخه کامل"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "مستندات"
+
+#: inc/customizer.php:27
+msgid "Color Scheme"
+msgstr "طرح رنگی"
+
+#: inc/customizer.php:28 inc/customizer.php:42
+msgid "More color options in PRO Version."
+msgstr "گزینه های رنگ بیشتر در نسخه حرفه ای."
+
+#: inc/customizer.php:41
+msgid "Other Color Option"
+msgstr "گزینه های رنگ دیگر"
+
+#: inc/customizer.php:52
+msgid "Slider Settings"
+msgstr "تنظیمات سایدبار"
+
+#: inc/customizer.php:54
+msgid ""
+"Featured Image Size Should be ( 1209x494 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"باید اندازه تصویر برجسته (1209 x 494) بیشتر کشویی تنظیمات موجود در نسخه حرفه "
+"ای می باشد."
+
+#: inc/customizer.php:67
+msgid "Select page for slide one:"
+msgstr "صفحه اسلاید یکی را انتخاب کنید:"
+
+#: inc/customizer.php:79
+msgid "Select page for slide two:"
+msgstr "صفحه را انتخاب کنید برای اسلاید دو:"
+
+#: inc/customizer.php:91
+msgid "Select page for slide three:"
+msgstr "صفحه اسلاید سه را انتخاب کنید:"
+
+#: inc/customizer.php:108
+msgid "Homepage  Why Choose Us"
+msgstr "چرا صفحه اصلی را انتخاب کنید"
+
+#: inc/customizer.php:109
+msgid "Select Page from the dropdown for first section"
+msgstr "انتخاب صفحه از منوی کرکره ای برای بخش اول"
+
+#: inc/customizer.php:136
+msgid "Homepage  Three Box Services"
+msgstr "صفحه اصلی سه کادر خدمات"
+
+#: inc/customizer.php:137
+msgid "Select Pages from the dropdown for homepage three column box section"
+msgstr "صفحات را از کشویی صفحه سه ستون بخش جعبه انتخاب کنید"
+
+#: inc/customizer.php:188
+msgid "Social Settings"
+msgstr "تنظیمات اجتماعی"
+
+#: inc/customizer.php:189
+msgid "More social icon available in PRO Version."
+msgstr "آیکون بیشتر اجتماعی موجود در نسخه حرفه ای."
+
+#: inc/customizer.php:199
+msgid "Add facebook link here"
+msgstr "لینک فیسبوک اینجا"
+
+#: inc/customizer.php:209
+msgid "Add twitter link here"
+msgstr "لینک توییتر اضافه کردن اینجا"
+
+#: inc/customizer.php:218
+msgid "Add google plus link here"
+msgstr "لینک گوگل پلاس اینجا"
+
+#: inc/customizer.php:227
+msgid "Add linkedin link here"
+msgstr "اضافه کردن لینک ارتباطی در اینجا"
+
+#: inc/customizer.php:233
+msgid "Footer Area"
+msgstr "منطقه فوتر"
+
+#: inc/customizer.php:235
+msgid "Add footer copyright text"
+msgstr "متن کپی رایت پاورقی"
+
+#: inc/customizer.php:244
+msgid "Add title for our philosophy"
+msgstr "افزودن عنوان فلسفه ما"
+
+#: inc/customizer.php:255
+msgid "Add description for about us"
+msgstr "اضافه کردن توضیحات برای درباره ما"
+
+#: inc/customizer.php:267
+msgid "Add title for our services"
+msgstr "افزودن عنوان سرویس های ما"
+
+#: inc/customizer.php:278
+msgid "Add title for office hours"
+msgstr "اضافه کردن عنوان برای ساعات اداری"
+
+#: inc/customizer.php:285
+msgid "Address"
+msgstr "آدرس"
+
+#: inc/customizer.php:289
+msgid "Add title for contact address"
+msgstr "افزودن عنوان آدرس تماس"
+
+#: inc/customizer.php:301
+msgid "Add contact address here"
+msgstr "اضافه کردن آدرس تماس اینجا"
+
+#: inc/customizer.php:308
+msgid "Copyright @ 2016 SKT Movers Packers. All Rights Reserved"
+msgstr "کپی رایت @ 2016 SKT Movers هکرها. کلیه حقوق محفوظ است"
+
+#: inc/customizer.php:313
+msgid "Add copyright text for footer"
+msgstr "متن کپی رایت برای فوتر."
+
+#: inc/customizer.php:320
+msgid "Header And Footer Info"
+msgstr "سرصفحه و پاورقی اطلاعات"
+
+#: inc/customizer.php:331
+msgid "Add title for opening hour"
+msgstr "اضافه کردن عنوان برای باز کردن ساعت"
+
+#: inc/customizer.php:337
+msgid "Mon to Fri - 10.00 AM to 7.00 PM Sat - 10.00 AM to 4.00 PM"
+msgstr "دوشنبه تا جمعه - ۱۰ صبح تا 7 عصر شنبه - 10.00 هستم به 4.00 بعد از ظهر"
+
+#: inc/customizer.php:342
+msgid "Add opning hours for header"
+msgstr "اضافه کردن ساعت opning هدر"
+
+#: inc/customizer.php:354
+msgid "Add title for call us"
+msgstr "افزودن عنوان برای تماس با ما"
+
+#: inc/customizer.php:361
+msgid " +10 2234567890 +10 1123456789"
+msgstr "2234567890 + 10 1123456789 + 10"
+
+#: inc/customizer.php:366
+msgid "Add contact phone number for header"
+msgstr "اضافه کردن شماره تلفن تماس برای هدر"
+
+#: inc/customizer.php:377
+msgid "Add title for email us"
+msgstr "افزودن عنوان برای ایمیل ما"
+
+#: inc/customizer.php:388
+msgid "Add email address for header"
+msgstr "اضافه کردن آدرس ایمیل برای هدر"
+
+#: inc/customizer.php:400
+msgid "Add title for get a quote"
+msgstr "افزودن عنوان برای دریافت نقل قول"
+
+#: inc/customizer.php:406
+msgid "#"
+msgstr "#"
+
+#: inc/customizer.php:411
+msgid "Add link for get a quote"
+msgstr "اضافه کردن لینک دریافت نقل قول"
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr "ناوبری نوشته"
+
+#: inc/template-tags.php:39
+msgid "Next Post:"
+msgstr "مطلب بعدی:"
+
+#: inc/template-tags.php:41
+msgid "Previous"
+msgstr "قبلی"
+
+#: inc/template-tags.php:42
+msgid "Previous Post:"
+msgstr "مطلب قبل"
+
+#: inc/template-tags.php:49
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "مطالب گذشته <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">&rarr;</span> مطالب جدید"
+
+#: inc/template-tags.php:76
+msgid "Pingback:"
+msgstr "بازتاب ها:"
+
+#: inc/template-tags.php:92
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:99
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار بررسی است ."
+
+#: inc/template-tags.php:190
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">منتشر شده %1$s</span><span class=\"byline\">  توسط"
+"%2$s</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "مفهوم نمی باشد"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آماده ارسال اولین مطلب هستید؟ <a href=\"%1$s\"> شروع کنید</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "متاسفانه چیزی یافت نشد. با کلمات دیگری مجدد جستجو کنید."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "دوست دارید در مورد جستجو به شما کمکی کنیم"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای : %s"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "جستجو ..."
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "جستجو"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "دسته"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "متا"
+
+#. Theme Name of the plugin/theme
+msgid "Movers Packers"
+msgstr "Movers Packers"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/movers-packers-lite/"
+msgstr "http://www.sktthemes.net/shop/movers-packers-lite/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like local business, small business, "
+"startup, portfolio, personal, architect, consulting, construction, real "
+"estate, medical, health, doctor, fitness, clean, flat, simple, flexible, "
+"scalable, freelancer, fashion, lifestyle, travel, sports, food, recipe, "
+"musician, agency, creative, bloggers, restaurant, cafe etc. Compatible with "
+"contact form 7, WooCommerce, NextGen Gallery and is translation ready. "
+"Translated into 23 ready languages and is compatible with WPML, qTranslate "
+"X, polylang etc. Check demo at: http://sktthemesdemo.net/moverspackers/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"
+
+#~ msgid "Appears on header and footer of site"
+#~ msgstr "به نظر می رسد در سر صفحه و پا نویس سایت"
+
+#~ msgid ""
+#~ "SKT Movers and Packers is a responsive WordPress theme which is "
+#~ "multipurpose and can be used for corporate, business, sales, landing "
+#~ "page, product launch and various other website usage like local business, "
+#~ "small business, startup, portfolio, personal, architect, consulting, "
+#~ "construction, real estate etc. Compatible with contact form 7, "
+#~ "WooCommerce, NextGen Gallery and is translation ready. Check demo at: "
+#~ "http://sktthemesdemo.net/moverspackers/"
+#~ msgstr ""
+#~ "حرکتدهنده SKT و هکرها است تم وردپرس پاسخگو است که چند منظوره است و می "
+#~ "تواند مورد استفاده قرار گیرد برای شرکت های بزرگ، بازرگانی، فروش، فرود "
+#~ "صفحه راه اندازی محصول و مختلف دیگر استفاده از وب سایت مانند کسب و کار "
+#~ "محلی و کسب و کار کوچک و راه اندازی و نمونه کارها، شخصی، معمار، مشاوره، "
+#~ "ساخت و ساز، املاک و مستغلات و غیره. سازگار با تماس با فرم-7, WooCommerce, "
+#~ "NextGen گالری و ترجمه آماده است. اتمام نسخه ی نمایشی در: http://"
+#~ "sktthemesdemo.net/moverspackers/"

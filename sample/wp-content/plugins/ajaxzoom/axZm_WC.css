@@ -1,0 +1,11 @@
+.axZm_mouseOverZoomHint {
+	box-sizing: content-box;
+}
+
+ul.axZmThumbSlider li {
+	box-sizing: content-box;	
+}
+
+.axZmThumbSlider li {
+	border-radius: 0 !important;
+}

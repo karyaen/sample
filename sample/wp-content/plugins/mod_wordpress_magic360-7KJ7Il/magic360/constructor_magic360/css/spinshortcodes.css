@@ -1,0 +1,373 @@
+.shortcode-container {
+    padding-right: 20px;
+    position: relative;
+}
+.shortcode-container input[type="number"],
+.shortcode-container table input[type="text"] {
+    max-width: 65px;
+}
+
+.shortcode-container .tr {
+    display: inline-block;
+    background-color: white;
+    position: relative;
+    margin-bottom: 2px;
+    width: 100%;
+    line-height: 100%;
+}
+
+.shortcode-container .tr .td {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.shortcode-container .images-container {
+    position: relative;
+    margin: 10px 0px;
+    min-height: 500px;
+    max-height: 500px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+}
+
+.shortcode-container .images-container .img-container {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+    border: 1px solid white;
+    margin: 5px;
+}
+
+.shortcode-container .images-container .img-container:hover {
+    border: 1px solid #ccc;
+}
+
+.shortcode-container .images-container .img-container .magic-button,
+.shortcode-container #watermark-image .magic-button {
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    z-index: 100;
+    color: black;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-image: none;
+    border: 0;
+    border-radius: 0;
+    text-transform: none !important;
+    text-align: center;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -webkit-transition: opacity .25s;
+    transition: opacity .25s;
+    opacity: 0;
+}
+
+.shortcode-container .images-container .img-container:hover .magic-button,
+.shortcode-container #watermark-image:hover .magic-button {
+    opacity: .6;
+}
+
+.shortcode-container .images-container .img-container:hover .magic-button:hover,
+.shortcode-container #watermark-image:hover .magic-button:hover {
+    opacity: 1;
+}
+
+.shortcode-container .images-container .img-container .magic-button:before,
+.shortcode-container #watermark-image .magic-button:before {
+    content: "\00D7";
+}
+
+.shortcode-container .images-container .img-container .img-name {
+    left: 0;
+    width: 100%;
+    color: white;
+    bottom: -100%;
+    padding: 3px 0;
+    position: absolute;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.shortcode-container .images-container .img-container:hover .img-name {
+    bottom: 0%;
+}
+
+.shortcode-container .options-container {
+    position: relative;
+    display: inline-block;
+}
+
+.shortcode-container #spin-name-error {
+    display: none;
+    color: red;
+}
+
+.shortcode-container #watermark-image {
+    width: 50%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: inline-block;
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    cursor: pointer;
+    overflow: hidden;
+    background-color: #FBFBFB;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.shortcode-container #watermark-image:before {
+    content: "";
+    display: inline-block;
+    padding-top: 100%;
+    vertical-align: top;
+    height: 0;
+}
+
+
+.shortcode-container #watermark-image.img-is-missing:after {
+    content: "Select image";
+    display: block;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top:50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color:#ccc;
+    pointer-events: none;
+    transition: color .3s;
+}
+.shortcode-container #watermark-image.img-is-missing:hover:after {
+    color:#7B7B7B;
+}
+
+.shortcode-container .img-is-missing#watermark-image .magic-button {
+    display: none;
+}
+
+
+.shortcode-container .multi-row,
+.shortcode-container .number-of-images {
+    padding-bottom: 10px;
+}
+
+.shortcode-container .multi-row-message {
+    display: block;
+    color: green;
+}
+
+.shortcode-container .multi-row-message.red-msg {
+    color: red;
+}
+
+.shortcode-container .left-col,
+.shortcode-container .right-col {
+    float: left;
+    padding: 5px;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.shortcode-container fieldset {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.shortcode-container fieldset legend {
+    width: inherit;
+    font-weight: bold;
+    padding: 0 5px;
+    border-bottom: none;
+    font-size: 14px;
+    color: #777;
+    margin-left: 10px
+}
+
+.shortcode-container fieldset table {
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.shortcode-container fieldset table td {
+    font-size: 12px;
+    padding: 10px 5px;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+.shortcode-container fieldset table td:last-child  {  padding-right: 0px; }
+.shortcode-container fieldset table td:first-child  {  padding-left: 0px; }
+
+.shortcode-container fieldset table tr:first-child td {
+    border: none;
+}
+
+.shortcode-container fieldset table td:first-child {
+    width: 65%;
+}
+
+.shortcode-container fieldset table td:last-child {
+    width: 35%;
+}
+
+.shortcode-container fieldset table .btn-group {
+    margin-top: 5px;
+    border: 0;
+    border-radius: 0;
+    overflow: hidden;
+    outline: 0;
+
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.shortcode-container .msg-container {
+    position: relative;
+    display: inline-block;
+}
+
+.shortcode-container .msg-container .good-msg,
+.shortcode-container .msg-container .error-msg {
+    display: none;
+    padding: 0px 5px;
+    position: relative;
+    font-weight: bolder;
+}
+
+.shortcode-container .msg-container .good-msg {
+    color: green;
+}
+
+.shortcode-container .msg-container .error-msg {
+    color: red;
+}
+
+.shortcode-container .img-error,
+.shortcode-container .multi-row-error {
+    display: none;
+}
+
+.shortcode-container .save-container {
+    position: relative;
+    padding: 10px 10px 10px 0;
+}
+
+.shortcode-container .save-container .save-loader {
+    position: relative;
+    display: none;
+}
+
+.shortcode-container .save-container .save-loader .magic-loader {
+    width: 27px !important;
+    height: 27px !important;
+}
+
+.shortcode-container .display-container {
+    position: relative;
+}
+
+/*small loader*/
+.shortcode-container .image-loader {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    position: absolute;
+    display: none;
+    background-color: rgba(0,0,0,0.3);
+}
+.shortcode-container .image-loader .wrapper-box {
+    color: white;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.shortcode-container .image-loader .wrapper-box .magictoolbox-loader {
+    position: relative;
+    display: inline-block;
+}
+
+.shortcode-container .image-loader .wrapper-box .mtbl-title {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.shortcode-container .image-loader .wrapper-box .mtbl-description {
+
+}
+
+.shortcode-container .small-loader {
+    position: relative;
+    vertical-align: middle;
+    display: none;
+}
+
+.shortcode-container .magictoolbox-loader {
+    position: relative;
+    width: 26px;
+    height: 26px;
+    border-radius: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.shortcode-container .magictoolbox-loader:after {
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    border-radius: 100%;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-left-color: transparent;
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+.shortcode-container .magictoolbox-loader:after {
+    width: 85%;
+    height: 85%;
+    -webkit-animation: magictoolboxShortcodeAction 1s infinite linear;
+    animation: magictoolboxShortcodeAction 1s infinite linear;
+}
+
+@-wbkit-keyframes magictoolboxShortcodeAction {
+    0% { -wbkit-transform: rotate(0deg); }
+    100% { -wbkit-transform: rotate(360deg); }
+}
+
+@keyframes magictoolboxShortcodeAction {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.disabled td { color:#aaa; }

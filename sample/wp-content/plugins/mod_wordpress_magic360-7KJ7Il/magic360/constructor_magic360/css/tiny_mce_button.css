@@ -1,0 +1,28 @@
+i.magic360-icon {
+    background-image: url('../../core/admin_graphics/icon.png');
+}
+
+.mce-separator {
+    position: relative !important;
+    margin-bottom: 11px !important;
+}
+
+.mce-separator:after {
+    content: "";
+    left: 0;
+    right: 0;
+    width: 90%;
+    height: 0;
+    margin: auto;
+    bottom: -6px;
+    position: absolute;
+    border-bottom: 1px solid #9E9B9B;
+}
+
+.mce-menu .mce-menu-item.mce-disabled:hover {
+    background-color: transparent !important;
+}
+
+.mce-menu .mce-menu-item.mce-disabled:hover span {
+    color: #adadad !important;
+}

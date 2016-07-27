@@ -1,0 +1,684 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Movers Packers\n"
+"POT-Creation-Date: 2016-05-20 11:04+0530\n"
+"PO-Revision-Date: 2016-05-20 11:04+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "Błąd 404 - nie znaleziono!"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr ""
+"Wygląda na to, miały złą drogę... Nie martw się... zdarza się najlepszym z "
+"nas."
+
+#: archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr "Dzień: %s"
+
+#: archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr "Miesiąc: %s"
+
+#: archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr "Rok: %s"
+
+#: archive.php:47
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:50
+msgid "Images"
+msgstr "Obrazy"
+
+#: archive.php:53
+msgid "Videos"
+msgstr "Video"
+
+#: archive.php:56
+msgid "Quotes"
+msgstr "Cytaty"
+
+#: archive.php:59
+msgid "Links"
+msgstr "Linki"
+
+#: archive.php:62 sidebar.php:18
+msgid "Archives"
+msgstr "Archiwa"
+
+#: archive.php:85 category.php:32 index.php:34
+msgid "Back"
+msgstr "Wstecz"
+
+#: archive.php:86 category.php:33 inc/template-tags.php:38 index.php:35
+msgid "Next"
+msgstr "Następny"
+
+#: category.php:19
+msgid "Category: "
+msgstr "Kategoria:"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna odpowiedź do &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Nawigacja komentarzy"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze komentarze"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Komentarze są wyłączone."
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "Strony:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:76 inc/template-tags.php:95
+msgid "Edit"
+msgstr "Edycja"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "| Tagi:"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "Czytaj więcej"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Czytaj dalej <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:15
+msgid "Address:-"
+msgstr "Adres"
+
+#: footer.php:18 inc/customizer.php:296
+msgid "Mover & Packers 10 Down Street, Hunterdon, United States"
+msgstr "Mover & Packers 10 w dół ulicy, Hunterdon, Stany Zjednoczone"
+
+#: footer.php:25
+msgid "Call Us:-"
+msgstr "Zadzwoń do nas"
+
+#: footer.php:28 header.php:70
+msgid "+10 2234567890 +10 1123456789"
+msgstr "2234567890 + 10 + 10 1123456789"
+
+#: footer.php:35
+msgid "Email Us:-"
+msgstr "Napisz do nas"
+
+#: footer.php:38 inc/customizer.php:383
+msgid "support@sitename.com info@sitename.com"
+msgstr "support@sitename.com info@sitename.com"
+
+#: footer.php:48 inc/customizer.php:239
+msgid "About Us"
+msgstr "O nas"
+
+#: footer.php:49 inc/customizer.php:250
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue. <br /> "
+"</br > Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat "
+"sapien mauris, vitae sodales tellus venenatis ac suspendisse suscipit velit. "
+msgstr ""
+"Donec ut ex mollis pellentesque nulla ac w enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna Gości. Quisque velit nibh, egestas et erat, augue interdum vehicula."
+"<br>Donec ut ex mollis pellentesque nulla ac w enim. Praesent placerat "
+"sapien mauris, vitae sodales tellus venenatis ac suspendisse suscipit velit."
+
+#: footer.php:53 inc/customizer.php:262
+msgid "Our Services"
+msgstr "Nasze usługi"
+
+#: footer.php:61 inc/customizer.php:273
+msgid "Latest Posts"
+msgstr "Najnowsze wpisy"
+
+#: footer.php:72
+msgid "Read more"
+msgstr "kliknij więcej"
+
+#: footer.php:84
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:84
+msgid "All Rights Reserved"
+msgstr "Wszelkie prawa zastrzeżone"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "Główne menu (primary)"
+
+#: functions.php:53
+msgid "Top Menu"
+msgstr "Menu górne"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "Menu stopki"
+
+#: functions.php:68
+msgid "Header Info"
+msgstr "Informacje o nagłówku"
+
+#: functions.php:69
+msgid "Appears on header of site"
+msgstr "Pojawia się w nagłówku strony"
+
+#: functions.php:78
+msgid "Blog Sidebar"
+msgstr "Panel boczny bloga"
+
+#: functions.php:79
+msgid "Appears on blog page sidebar"
+msgstr "Pojawia się na stronie bocznej bloga"
+
+#: functions.php:98
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "dn."
+
+#: functions.php:105
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "dn."
+
+#: header.php:58 inc/customizer.php:326
+msgid "Opening Hours"
+msgstr "Godziny otwarcia"
+
+#: header.php:61
+msgid "Mon to Fri - 10.00 AM to 7.00 PM<br /> Sat - 10.00 AM to 4.00 PM"
+msgstr "Pon-pt - 10.00 do 19.00<br>SAT - 10.00 do 16.00"
+
+#: header.php:67 inc/customizer.php:349
+msgid "Call Us"
+msgstr "Zadzwoń do nas"
+
+#: header.php:76 inc/customizer.php:372
+msgid "Email Us"
+msgstr "Napisz do nas"
+
+#: header.php:95
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:101 inc/customizer.php:395
+msgid "Get A Quote"
+msgstr "Zaplanuj przeprowadzkę"
+
+#: header.php:142 header.php:277
+msgid "Read More"
+msgstr "Czytaj więcej"
+
+#: header.php:159 header.php:166 header.php:173 header.php:294 header.php:301
+#: header.php:308
+msgid "We are moving experts"
+msgstr "Poruszamy się eksperci"
+
+#: header.php:160 header.php:167 header.php:174 header.php:295 header.php:302
+#: header.php:309
+msgid ""
+"This is an example page. Its different from a blog post because it will stay "
+"in one place and will show up in your site navigation"
+msgstr ""
+"To jest przykładowa strona. Po jego różni się od bloga, bo będzie przebywać "
+"w jednym miejscu i będą wyświetlane w Twojej nawigacji w witrynie"
+
+#: header.php:194 header.php:329
+msgid "Why Choose Us"
+msgstr "Dlaczego właśnie my?"
+
+#: header.php:195 header.php:330
+msgid ""
+"Vivamus non elementum lacus. Nam ac molestie tortor. Ut sit amet lobortis "
+"magna, ut ornare ante. Curabitur lobortis urna non ligula porta\n"
+"sodales. Pellentesque at efficitur risus, at dignissim libero. Etiam lacinia "
+"lorem sit amet arcu vulputate varius. Suspendisse sodales quam eu\n"
+"egestas consequat. Donec vestibulum elementum libero eget fringilla. "
+msgstr ""
+"Lacus non elementum Vivamus. Nam ac molestie tortor. UT sit amet lobortis "
+"magna, ut ornare ante. Curabitur lobortis urna non ligula porta sodales. "
+"Pellentesque w risus efficitur, o dignissim libero. Etiam lacinia lorem sit "
+"amet arcu vulputate varius. Suspendisse sodales quam UE egestas po. Donec "
+"vestibulum elementum libero eget fringilla."
+
+#: header.php:230 header.php:365
+msgid "Largest Warehousing"
+msgstr "Największych hurtowni"
+
+#: header.php:232 header.php:367
+msgid ""
+"Praesent eget malesuada massa. Curabitur pretium, est eu iaculis maximus, "
+"sem arcu rhoncus arcu, sit amet consequat justo sem eget sapien. Nulla "
+"egestas non ex ultricies semper. Aliquam vitae orci rutrum"
+msgstr ""
+"Praesent eget malesuada massa. Curabitur pretium, est UE iaculis maximus, "
+"sem arcu rhoncus arcu, sit amet po justo sem eget sapien. Nulla egestas nie "
+"ex ultricies semper. Aliquam vitae orci rutrum"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Opublikowane <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> o  <a href=\"%3$s\">%4$s &times; %5$s</a> w <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Poprzedni"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Następne <span class=„meta-nav”>&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "o tematu"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "Dotyczące tematu Info"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like portfolio, personal, architect, "
+"consulting, construction, real estate etc. Compatible with contact form 7, "
+"WooCommerce, NextGen Gallery and is translation ready."
+msgstr ""
+"SKT przeprowadzki i Packers jest responsive temat WordPress, który jest "
+"uniwersalny i może być używany dla firmy, biznes, sprzedaż, lądowania "
+"strony, wprowadzenia produktu na rynek i różne inne wykorzystanie strony "
+"internetowej jak portfolio, osobiste, architekt, doradztwo, budownictwo, "
+"nieruchomości itp. Kompatybilny z formularz kontaktowy 7, WooCommerce, "
+"NextGen Gallery i jest gotowe tłumaczenie."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "Prezentacja na żywo"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "Kupię Pro"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: inc/customizer.php:27
+msgid "Color Scheme"
+msgstr "Schemat kolorów"
+
+#: inc/customizer.php:28 inc/customizer.php:42
+msgid "More color options in PRO Version."
+msgstr "Więcej opcji kolorów w wersji PRO."
+
+#: inc/customizer.php:41
+msgid "Other Color Option"
+msgstr "Innych opcji kolorów"
+
+#: inc/customizer.php:52
+msgid "Slider Settings"
+msgstr "Ustawienia pokazu slajdów"
+
+#: inc/customizer.php:54
+msgid ""
+"Featured Image Size Should be ( 1209x494 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"Rekomendowane obrazu rozmiar powinien być (1209 x 494) więcej suwak "
+"ustawienia dostępne w wersji PRO."
+
+#: inc/customizer.php:67
+msgid "Select page for slide one:"
+msgstr "Wybierz stronę do slajdów, jeden:"
+
+#: inc/customizer.php:79
+msgid "Select page for slide two:"
+msgstr "Wybierz stronę do slajdów, dwa:"
+
+#: inc/customizer.php:91
+msgid "Select page for slide three:"
+msgstr "Wybierz stronę dla slajdów trzy:"
+
+#: inc/customizer.php:108
+msgid "Homepage  Why Choose Us"
+msgstr "Strona główna Dlaczego wybrać nas"
+
+#: inc/customizer.php:109
+msgid "Select Page from the dropdown for first section"
+msgstr "Wybierz stronę z menu rozwijanego dla pierwszej sekcji"
+
+#: inc/customizer.php:136
+msgid "Homepage  Three Box Services"
+msgstr "Strona główna trzy pola usługi"
+
+#: inc/customizer.php:137
+msgid "Select Pages from the dropdown for homepage three column box section"
+msgstr ""
+"Wybierz strony z menu rozwijanego dla głównej trzy kolumny pole przekroju"
+
+#: inc/customizer.php:188
+msgid "Social Settings"
+msgstr "Media społecznościowe"
+
+#: inc/customizer.php:189
+msgid "More social icon available in PRO Version."
+msgstr "Dostępne w wersji PRO bardziej społeczne ikony."
+
+#: inc/customizer.php:199
+msgid "Add facebook link here"
+msgstr "Link do Facebooka"
+
+#: inc/customizer.php:209
+msgid "Add twitter link here"
+msgstr "Dodaj link twitter tutaj"
+
+#: inc/customizer.php:218
+msgid "Add google plus link here"
+msgstr "Dodaj Google Plus tutaj link"
+
+#: inc/customizer.php:227
+msgid "Add linkedin link here"
+msgstr "Dodaj linkedin link tutaj"
+
+#: inc/customizer.php:233
+msgid "Footer Area"
+msgstr "Obszar stopki"
+
+#: inc/customizer.php:235
+msgid "Add footer copyright text"
+msgstr "Tekst o prawach autorskich w stopce"
+
+#: inc/customizer.php:244
+msgid "Add title for our philosophy"
+msgstr "Dodaj tytuł dla naszej filozofii"
+
+#: inc/customizer.php:255
+msgid "Add description for about us"
+msgstr "Dodaj opis o nas"
+
+#: inc/customizer.php:267
+msgid "Add title for our services"
+msgstr "Dodaj tytuł dla naszych usług"
+
+#: inc/customizer.php:278
+msgid "Add title for office hours"
+msgstr "Dodaj tytuł dla godziny urzędowania"
+
+#: inc/customizer.php:285
+msgid "Address"
+msgstr "Adres"
+
+#: inc/customizer.php:289
+msgid "Add title for contact address"
+msgstr "Dodaj tytuł adres kontaktowy"
+
+#: inc/customizer.php:301
+msgid "Add contact address here"
+msgstr "Dodaj adres kontaktowy tutaj"
+
+#: inc/customizer.php:308
+msgid "Copyright @ 2016 SKT Movers Packers. All Rights Reserved"
+msgstr "Copyright @ 2016 SKT przeprowadzki Packers. Wszelkie prawa zastrzeżone"
+
+#: inc/customizer.php:313
+msgid "Add copyright text for footer"
+msgstr "Dodaj tekst dotyczący praw autorskich do stopki"
+
+#: inc/customizer.php:320
+msgid "Header And Footer Info"
+msgstr "Nagłówek i stopka"
+
+#: inc/customizer.php:331
+msgid "Add title for opening hour"
+msgstr "Dodaj tytuł dla godziny otwarcia"
+
+#: inc/customizer.php:337
+msgid "Mon to Fri - 10.00 AM to 7.00 PM Sat - 10.00 AM to 4.00 PM"
+msgstr "Pon-pt - 10.00 do 19.00 sobota - 10.00 rano do 4.00 PM"
+
+#: inc/customizer.php:342
+msgid "Add opning hours for header"
+msgstr "Dodaj opning godzin dla nagłówka"
+
+#: inc/customizer.php:354
+msgid "Add title for call us"
+msgstr "Dodaj tytuł dla wywołania nas"
+
+#: inc/customizer.php:361
+msgid " +10 2234567890 +10 1123456789"
+msgstr "2234567890 + 10 + 10 1123456789"
+
+#: inc/customizer.php:366
+msgid "Add contact phone number for header"
+msgstr "Dodać numer telefonu do nagłówka"
+
+#: inc/customizer.php:377
+msgid "Add title for email us"
+msgstr "Dodaj tytuł e-mail nas"
+
+#: inc/customizer.php:388
+msgid "Add email address for header"
+msgstr "Dodaj adres e-mail do nagłówka"
+
+#: inc/customizer.php:400
+msgid "Add title for get a quote"
+msgstr "Dodaj tytuł dla get cytat"
+
+#: inc/customizer.php:406
+msgid "#"
+msgstr "#"
+
+#: inc/customizer.php:411
+msgid "Add link for get a quote"
+msgstr "Dodaj link do get cytat"
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr "Nawigacja wpisu"
+
+#: inc/template-tags.php:39
+msgid "Next Post:"
+msgstr "Następny wpis:"
+
+#: inc/template-tags.php:41
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: inc/template-tags.php:42
+msgid "Previous Post:"
+msgstr "Poprzedni wpis:"
+
+#: inc/template-tags.php:49
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starsze wpisy"
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nowsze wpisy <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:76
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:92
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:99
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz czeka na zatwierdzenie."
+
+#: inc/template-tags.php:190
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Opublikowane %1$s</span><span class=\"byline\"> "
+"przez %2$s</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Niczego nie znaleziono"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotowy opublikować pierwszy wpis? <a href=“%1$s”>Kliknij tutaj</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Przykro nam, ale niczego nie znaleziono. Spróbuj innych słów kluczowych."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Wygląda na to, że nie możemy znaleźć tego, czego szukałeś. Być może "
+"wyszukiwanie pomoże."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Szukaj…"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Szukaj"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Kategoria"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme Name of the plugin/theme
+msgid "Movers Packers"
+msgstr "Movers Packers"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/movers-packers-lite/"
+msgstr "http://www.sktthemes.NET/Shop/Movers-Packers-Lite/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like local business, small business, "
+"startup, portfolio, personal, architect, consulting, construction, real "
+"estate, medical, health, doctor, fitness, clean, flat, simple, flexible, "
+"scalable, freelancer, fashion, lifestyle, travel, sports, food, recipe, "
+"musician, agency, creative, bloggers, restaurant, cafe etc. Compatible with "
+"contact form 7, WooCommerce, NextGen Gallery and is translation ready. "
+"Translated into 23 ready languages and is compatible with WPML, qTranslate "
+"X, polylang etc. Check demo at: http://sktthemesdemo.net/moverspackers/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.NET"
+
+#~ msgid "Appears on header and footer of site"
+#~ msgstr "Pojawia się w nagłówku i stopce strony"
+
+#~ msgid ""
+#~ "SKT Movers and Packers is a responsive WordPress theme which is "
+#~ "multipurpose and can be used for corporate, business, sales, landing "
+#~ "page, product launch and various other website usage like local business, "
+#~ "small business, startup, portfolio, personal, architect, consulting, "
+#~ "construction, real estate etc. Compatible with contact form 7, "
+#~ "WooCommerce, NextGen Gallery and is translation ready. Check demo at: "
+#~ "http://sktthemesdemo.net/moverspackers/"
+#~ msgstr ""
+#~ "SKT przeprowadzki i Packers jest responsive temat WordPress, który jest "
+#~ "uniwersalny i może być używany dla corporate, biznes, sprzedaż, lądowania "
+#~ "strony, wprowadzenia produktu na rynek i różne inne wykorzystanie witryny "
+#~ "firm lokalnych, małych firm, uruchamiania, portfolio, osobiste, "
+#~ "architekt, doradztwo, budownictwo, nieruchomości itp. Kompatybilny z "
+#~ "formularz kontaktowy 7, WooCommerce, NextGen Gallery i jest gotowe "
+#~ "tłumaczenie. Sprawdź demo na: http://sktthemesdemo.net/moverspackers/"

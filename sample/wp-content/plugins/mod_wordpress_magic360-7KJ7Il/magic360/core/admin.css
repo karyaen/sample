@@ -1,0 +1,31 @@
+#magic360-config-form  .params { margin:0; width:100%;}
+#magic360-config-form .params th { border-bottom:1px solid #dfdfdf; font-weight:bold; background:#fff; text-align:left; padding:15px 20px; vertical-align: top; }
+#magic360-config-form .params td { vertical-align:top; border-bottom:1px solid #dfdfdf; padding:10px 5px; background:#fff; width:100%; }
+#magic360-config-form .params tr.back th, #magic360-config-form .params tr.back td { background:#f9f9f9; }
+#magic360-config-form .params tr.last th, #magic360-config-form .params tr.last td { border:none; }
+.afterText {font-size:10px;font-style:normal;font-weight:normal;}
+.help-block {font-size: 11px; display:block}
+.settingsTitle {font-size: 1.5em;font-weight: normal;margin: 1.7em 0 1em 0;}
+.ui-tabs-nav {margin-bottom: -6px;}
+.ui-tabs-nav li {display: inline-block;}
+.ui-tabs-nav a:focus {box-shadow:none !important;}
+
+input[type="checkbox"],input[type="radio"] {margin:5px;vertical-align:middle !important;}
+td img {vertical-align:middle !important; margin-right:10px;}
+td span {vertical-align:middle !important; margin-right:10px;}
+#footer , #wpfooter {position:relative;}
+.fixed{
+      left: 160px;
+      position: fixed;
+      bottom: -15px;
+      width: 100%;
+      z-index: 9999999;
+}
+.fixed input {
+    float: right !important;
+    margin-right: 175px !important;
+    margin-bottom: 17px !important;
+}
+.fixed #resetLink {
+    display: none;
+}

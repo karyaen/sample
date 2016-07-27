@@ -1,0 +1,49 @@
+
+/* NOTE: contaner with main image and selector's container */
+div.MagicToolboxContainer {
+    text-align: center;
+}
+div.MagicToolboxContainer.minWidth {
+    min-width: 250px;
+}
+
+/* NOTE: main image styles */
+div.MagicToolboxContainer > a {
+    margin: 0 auto;
+}
+
+/* NOTE: contaner with message under Magic 360 */
+div.MagicToolboxMessage {
+    text-align: center;
+}
+
+/* NOTE: magicscroll makes the image smaller if there is a margin */
+/*
+.MagicScrollItem a {
+    margin: 0 !important;
+}
+*/
+
+.Magic360BigImageCont img {
+  width: auto !important;
+  height: auto !important;
+}
+.MagicToolboxContainer {
+    text-align: center;
+    display: inline-block !important;
+    clear: both;
+}
+
+.MagicToolboxSelectorsContainer a {
+    display: inline-block !important;
+}
+
+.Magic360 .image-overlay{
+    display: none !important;
+}
+
+/* === onlyForMod start: woocommerce, jigoshop, thecartpress, wpecommerce */
+div.MagicToolboxContainer {
+    text-align: center;
+} 
+/* === onlyForMod end */

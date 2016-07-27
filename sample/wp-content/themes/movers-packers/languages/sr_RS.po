@@ -1,0 +1,687 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Movers Packers\n"
+"POT-Creation-Date: 2016-05-20 11:05+0530\n"
+"PO-Revision-Date: 2016-05-20 11:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 Nije pronađeno"
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr ""
+"Изгледа као да су се у погрешном правцу ..... Не брини ... то се дешава и "
+"најбољима."
+
+#: archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr "Аутор: %s"
+
+#: archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr "Дан: %s"
+
+#: archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr "Месец: %s"
+
+#: archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr "Година: %s"
+
+#: archive.php:47
+msgid "Asides"
+msgstr "Асидес"
+
+#: archive.php:50
+msgid "Images"
+msgstr "Slike"
+
+#: archive.php:53
+msgid "Videos"
+msgstr "Video zapisi"
+
+#: archive.php:56
+msgid "Quotes"
+msgstr "citati"
+
+#: archive.php:59
+msgid "Links"
+msgstr "Veze"
+
+#: archive.php:62 sidebar.php:18
+msgid "Archives"
+msgstr "Arhive"
+
+#: archive.php:85 category.php:32 index.php:34
+msgid "Back"
+msgstr "Nazad"
+
+#: archive.php:86 category.php:33 inc/template-tags.php:38 index.php:35
+msgid "Next"
+msgstr "Sledeća"
+
+#: category.php:19
+msgid "Category: "
+msgstr "Kategorija:"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Једна мисао о \"% 2 $ с\""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Претрага коментара"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Stariji komentari"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Новији Коментари"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Коментарисање је онемогућено."
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr "Stranice:"
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:76 inc/template-tags.php:95
+msgid "Edit"
+msgstr "uredi"
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ","
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr "Oznake:"
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr "Pročitaj više &raquo;"
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Detaljnije … <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:15
+msgid "Address:-"
+msgstr "Adresa"
+
+#: footer.php:18 inc/customizer.php:296
+msgid "Mover & Packers 10 Down Street, Hunterdon, United States"
+msgstr "Сједињене Америчке Државе"
+
+#: footer.php:25
+msgid "Call Us:-"
+msgstr "POZOVITE:"
+
+#: footer.php:28 header.php:70
+msgid "+10 2234567890 +10 1123456789"
+msgstr "+10 2234567890 +10 1123456789"
+
+#: footer.php:35
+msgid "Email Us:-"
+msgstr "Е-адреса"
+
+#: footer.php:38 inc/customizer.php:383
+msgid "support@sitename.com info@sitename.com"
+msgstr "support@sitename.com info@sitename.com"
+
+#: footer.php:48 inc/customizer.php:239
+msgid "About Us"
+msgstr "О нама"
+
+#: footer.php:49 inc/customizer.php:250
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue. <br /> "
+"</br > Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat "
+"sapien mauris, vitae sodales tellus venenatis ac suspendisse suscipit velit. "
+msgstr ""
+"Донец ут ек АЦ Нулла пеллентескуе моллис ин а еним. Маурис плацерат сапиен "
+"маурис, биографија Членови теллус вененатис ац. Суспендиссе сусципит велит "
+"ид ултрициес Ауцтор. Име на метус арцу, аликует сед соллицитудин сед, Порта "
+"витае урна. ПОШТАНСКА велит нибх, егестас и Ерат А, вехицула интердум аугуе. "
+"<бр /> </ бр> Куискуе ут ек ац нулла пеллентескуе моллис ин а еним. Маурис "
+"плацерат сапиен маурис, витае дицтум ТЕЛЛУС вененатис ац Суспендиссе "
+"сусципит велит."
+
+#: footer.php:53 inc/customizer.php:262
+msgid "Our Services"
+msgstr "Наше услуге"
+
+#: footer.php:61 inc/customizer.php:273
+msgid "Latest Posts"
+msgstr "Obaveštenja"
+
+#: footer.php:72
+msgid "Read more"
+msgstr "Прочитај више"
+
+#: footer.php:84
+msgid "&copy; 2016"
+msgstr "&copy; 2016"
+
+#: footer.php:84
+msgid "All Rights Reserved"
+msgstr "Sva prava zadržana"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "Главни мени"
+
+#: functions.php:53
+msgid "Top Menu"
+msgstr "Горњи Мени"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "фоотер Мени"
+
+#: functions.php:68
+msgid "Header Info"
+msgstr "Заглавље"
+
+#: functions.php:69
+msgid "Appears on header of site"
+msgstr "Појављује се на заглавље и подножје сајта"
+
+#: functions.php:78
+msgid "Blog Sidebar"
+msgstr "Трака на Блог страни"
+
+#: functions.php:79
+msgid "Appears on blog page sidebar"
+msgstr "Појављује се на блог страници сидебар"
+
+#: functions.php:98
+msgctxt "roboto:on or off"
+msgid "on"
+msgstr "на"
+
+#: functions.php:105
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr "на"
+
+#: header.php:58 inc/customizer.php:326
+msgid "Opening Hours"
+msgstr "• Радно време"
+
+#: header.php:61
+msgid "Mon to Fri - 10.00 AM to 7.00 PM<br /> Sat - 10.00 AM to 4.00 PM"
+msgstr "Понедељка до петка - 10.00 до 7.00 пм <br /> Сат - 10.00 до 4.00 ПМ"
+
+#: header.php:67 inc/customizer.php:349
+msgid "Call Us"
+msgstr "Call"
+
+#: header.php:76 inc/customizer.php:372
+msgid "Email Us"
+msgstr "Е-адреса"
+
+#: header.php:95
+msgid "Menu"
+msgstr "Navigacija"
+
+#: header.php:101 inc/customizer.php:395
+msgid "Get A Quote"
+msgstr "Добили Цитат"
+
+#: header.php:142 header.php:277
+msgid "Read More"
+msgstr "Opširnije"
+
+#: header.php:159 header.php:166 header.php:173 header.php:294 header.php:301
+#: header.php:308
+msgid "We are moving experts"
+msgstr "Крећемо се стручњаци"
+
+#: header.php:160 header.php:167 header.php:174 header.php:295 header.php:302
+#: header.php:309
+msgid ""
+"This is an example page. Its different from a blog post because it will stay "
+"in one place and will show up in your site navigation"
+msgstr ""
+"Ово је пример страна. Његова разликује од блогу јер ће остати на једном "
+"месту и да ће се појавити у вашем навигацију сајту"
+
+#: header.php:194 header.php:329
+msgid "Why Choose Us"
+msgstr "Зашто изабрати нас"
+
+#: header.php:195 header.php:330
+msgid ""
+"Vivamus non elementum lacus. Nam ac molestie tortor. Ut sit amet lobortis "
+"magna, ut ornare ante. Curabitur lobortis urna non ligula porta\n"
+"sodales. Pellentesque at efficitur risus, at dignissim libero. Etiam lacinia "
+"lorem sit amet arcu vulputate varius. Suspendisse sodales quam eu\n"
+"egestas consequat. Donec vestibulum elementum libero eget fringilla. "
+msgstr ""
+"Вивамус не елементум Лацус. Нам ац молестие тортор. Ут сит амет лобортис "
+"Магна, УТ поштенска анте. Цурабитур лобортис урна не лигула Порта\n"
+"дицтум. Пеллентескуе на еффицитур урна, у дигниссим либеро. Етиам лациниа "
+"Лорем сит амет арцу вулпутате вариус. Суспендиссе Членови куам еу\n"
+"егестас цонсекуат. Донец вестибулум елементум либеро егет фрингилла."
+
+#: header.php:230 header.php:365
+msgid "Largest Warehousing"
+msgstr ""
+
+#: header.php:232 header.php:367
+msgid ""
+"Praesent eget malesuada massa. Curabitur pretium, est eu iaculis maximus, "
+"sem arcu rhoncus arcu, sit amet consequat justo sem eget sapien. Nulla "
+"egestas non ex ultricies semper. Aliquam vitae orci rutrum"
+msgstr ""
+"Маурис егет малесуада Масса. Цурабитур претиум ест ЕУ иацулис Макимус сем "
+"арцу рхонцус арцу, сит амет цонсекуат јусто Сем егет сапиен. Нулла егестас "
+"не бивши ултрициес семпре. Поделите Витае орци рутрум"
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Објављен <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Линк за слику у "
+"пуној величини\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to "
+"%7$s\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Prethodno"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следеће <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr "О Тхеме"
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr "О Тхеме Инфо"
+
+#: inc/about-themes.php:32
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like portfolio, personal, architect, "
+"consulting, construction, real estate etc. Compatible with contact form 7, "
+"WooCommerce, NextGen Gallery and is translation ready."
+msgstr ""
+"СКТ Моверс и Пацкерс је реагује УордПресс тема која је вишенаменски и може "
+"се користити за корпоративне, пословне, продаја, почетне странице, лансирања "
+"производа и разних других коришћење сајта као што је портфолио, личне, "
+"архитекта, консалтинг, изградњу, некретнина итд компатибилан са контакт "
+"формулар 7, ВооЦоммерце, НектГен Галерија и превод спреман."
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr "живе"
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr "купити ПРО"
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr "документација"
+
+#: inc/customizer.php:27
+msgid "Color Scheme"
+msgstr "Шема боја"
+
+#: inc/customizer.php:28 inc/customizer.php:42
+msgid "More color options in PRO Version."
+msgstr "Више опција боја у ПРО верзији."
+
+#: inc/customizer.php:41
+msgid "Other Color Option"
+msgstr "Остали Боја Опција"
+
+#: inc/customizer.php:52
+msgid "Slider Settings"
+msgstr "Podešavanje slajdera"
+
+#: inc/customizer.php:54
+msgid ""
+"Featured Image Size Should be ( 1209x494 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+"Представљамо Имаге Сизе би требало да буде (1209к494) Више поставке клизач "
+"доступан у Про верзији."
+
+#: inc/customizer.php:67
+msgid "Select page for slide one:"
+msgstr "Изаберите страну за слиде један:"
+
+#: inc/customizer.php:79
+msgid "Select page for slide two:"
+msgstr "Изаберите страну за слајд два:"
+
+#: inc/customizer.php:91
+msgid "Select page for slide three:"
+msgstr "Изаберите страну за слајд три:"
+
+#: inc/customizer.php:108
+msgid "Homepage  Why Choose Us"
+msgstr "Почетна Зашто изабрати нас"
+
+#: inc/customizer.php:109
+msgid "Select Page from the dropdown for first section"
+msgstr "Изабери страницу из падајућег за прве деонице"
+
+#: inc/customizer.php:136
+msgid "Homepage  Three Box Services"
+msgstr "Почетна страница Три Бок услуги"
+
+#: inc/customizer.php:137
+msgid "Select Pages from the dropdown for homepage three column box section"
+msgstr ""
+"Изаберите странице из падајућег за насловну страну кутије одељак три колоне"
+
+#: inc/customizer.php:188
+msgid "Social Settings"
+msgstr "Друштвене мреже подешавања"
+
+#: inc/customizer.php:189
+msgid "More social icon available in PRO Version."
+msgstr "Више социјалне икона доступан у Про верзији."
+
+#: inc/customizer.php:199
+msgid "Add facebook link here"
+msgstr "Додај фацебоок линк овде"
+
+#: inc/customizer.php:209
+msgid "Add twitter link here"
+msgstr "Додај твиттер линк овде"
+
+#: inc/customizer.php:218
+msgid "Add google plus link here"
+msgstr "Додај Гоогле Плус линк овде"
+
+#: inc/customizer.php:227
+msgid "Add linkedin link here"
+msgstr "Додај ЛинкедИн линк овде"
+
+#: inc/customizer.php:233
+msgid "Footer Area"
+msgstr "Фоотер Површина"
+
+#: inc/customizer.php:235
+msgid "Add footer copyright text"
+msgstr "Додај фоотер Цопиригхт текста"
+
+#: inc/customizer.php:244
+msgid "Add title for our philosophy"
+msgstr "Додај наслов за наше филозофије"
+
+#: inc/customizer.php:255
+msgid "Add description for about us"
+msgstr "Додај опис за око нас"
+
+#: inc/customizer.php:267
+msgid "Add title for our services"
+msgstr "Додај наслов за наше услуге"
+
+#: inc/customizer.php:278
+msgid "Add title for office hours"
+msgstr "Додај титулу радног времена"
+
+#: inc/customizer.php:285
+msgid "Address"
+msgstr "Adresa"
+
+#: inc/customizer.php:289
+msgid "Add title for contact address"
+msgstr "Додај наслов за контакт адресу"
+
+#: inc/customizer.php:301
+msgid "Add contact address here"
+msgstr "Додај контакт адресу овде"
+
+#: inc/customizer.php:308
+msgid "Copyright @ 2016 SKT Movers Packers. All Rights Reserved"
+msgstr "Цопиригхт @ 2016 СКТ Моверс Пацкерс. Сва права задржана"
+
+#: inc/customizer.php:313
+msgid "Add copyright text for footer"
+msgstr "Додај ауторских текст за подножја"
+
+#: inc/customizer.php:320
+msgid "Header And Footer Info"
+msgstr "Заглавља и подножја информације"
+
+#: inc/customizer.php:331
+msgid "Add title for opening hour"
+msgstr "Додај наслов за отварање сат"
+
+#: inc/customizer.php:337
+msgid "Mon to Fri - 10.00 AM to 7.00 PM Sat - 10.00 AM to 4.00 PM"
+msgstr "Понедељка до петка - 10.00 до 7.00 пм Сат - 10.00 ам до 4.00 пм"
+
+#: inc/customizer.php:342
+msgid "Add opning hours for header"
+msgstr "Додај радног времена за хеадер"
+
+#: inc/customizer.php:354
+msgid "Add title for call us"
+msgstr "Додај наслов за нас позовите"
+
+#: inc/customizer.php:361
+msgid " +10 2234567890 +10 1123456789"
+msgstr " +10 2234567890 +10 1123456789"
+
+#: inc/customizer.php:366
+msgid "Add contact phone number for header"
+msgstr "Додај број контакт телефона за заглавље"
+
+#: inc/customizer.php:377
+msgid "Add title for email us"
+msgstr "Додај наслов за нас емаил"
+
+#: inc/customizer.php:388
+msgid "Add email address for header"
+msgstr "Додај емаил адресу за заглавље"
+
+#: inc/customizer.php:400
+msgid "Add title for get a quote"
+msgstr "Додај наслов за добити цитат"
+
+#: inc/customizer.php:406
+msgid "#"
+msgstr "#"
+
+#: inc/customizer.php:411
+msgid "Add link for get a quote"
+msgstr "Адд линк за добити цитат"
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr "Порука оријентација"
+
+#: inc/template-tags.php:39
+msgid "Next Post:"
+msgstr "Sledeći post"
+
+#: inc/template-tags.php:41
+msgid "Previous"
+msgstr "Prethoda"
+
+#: inc/template-tags.php:42
+msgid "Previous Post:"
+msgstr "Prethodni članak"
+
+#: inc/template-tags.php:49
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старији постови"
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Noviji članci<span class=\"meta-nav\">&larr;</span>"
+
+#: inc/template-tags.php:76
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:92
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:99
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар чека на одобрење."
+
+#: inc/template-tags.php:190
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Објављено %1$s</span><span class=\"byline\"> од "
+"%2$s</span>"
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Ništa nije pronađeno"
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Желиш ли да објавиш свој први пост? <a href=\"%1$s\">Започни</a>."
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Izvinite, ništa nije pronađeno po zadatoj ključnoj reči pretrage. Molimo Vas "
+"pokušajte ponovo."
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Nismo u mogućnosti&rsquo;t da pronadjemo šta ste&rsquo;re tražili. Možda će "
+"pretraga pomoći."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rezultati pretrage za: %s"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Тражи..."
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Pretraga"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Kategorija"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme Name of the plugin/theme
+msgid "Movers Packers"
+msgstr "Movers Packers"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.sktthemes.net/shop/movers-packers-lite/"
+msgstr "http://www.sktthemes.net/shop/movers-packers-lite/"
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Movers and Packers is a responsive WordPress theme which is multipurpose "
+"and can be used for corporate, business, sales, landing page, product launch "
+"and various other website usage like local business, small business, "
+"startup, portfolio, personal, architect, consulting, construction, real "
+"estate, medical, health, doctor, fitness, clean, flat, simple, flexible, "
+"scalable, freelancer, fashion, lifestyle, travel, sports, food, recipe, "
+"musician, agency, creative, bloggers, restaurant, cafe etc. Compatible with "
+"contact form 7, WooCommerce, NextGen Gallery and is translation ready. "
+"Translated into 23 ready languages and is compatible with WPML, qTranslate "
+"X, polylang etc. Check demo at: http://sktthemesdemo.net/moverspackers/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr "SKT Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.sktthemes.net"
+msgstr "http://www.sktthemes.net"
+
+#~ msgid "Appears on header and footer of site"
+#~ msgstr "Појављује се на заглавље и подножје сајта"
+
+#~ msgid ""
+#~ "SKT Movers and Packers is a responsive WordPress theme which is "
+#~ "multipurpose and can be used for corporate, business, sales, landing "
+#~ "page, product launch and various other website usage like local business, "
+#~ "small business, startup, portfolio, personal, architect, consulting, "
+#~ "construction, real estate etc. Compatible with contact form 7, "
+#~ "WooCommerce, NextGen Gallery and is translation ready. Check demo at: "
+#~ "http://sktthemesdemo.net/moverspackers/"
+#~ msgstr ""
+#~ "\n"
+#~ "СКТ Моверс и Пацкерс је реагује УордПресс тема која је вишенаменски и "
+#~ "може се користити за корпоративне, пословне, продаја, почетне странице, "
+#~ "лансирања производа и разних других коришћења сајта као локалног бизниса, "
+#~ "мале привреде, покретања, портфолио, личне, архитекта, консалтинг, "
+#~ "конструкција, некретнине итд компатибилан са контакт форме 7, "
+#~ "ВооЦоммерце, НектГен Галерија и превод спреман. Проверите демо на: http://"
+#~ "sktthemesdemo.net/moverspackers/"
